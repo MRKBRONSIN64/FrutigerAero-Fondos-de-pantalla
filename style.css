@@ -1,0 +1,23 @@
+body {
+    background-color: #222;
+    color: white;
+    font-family: Arial;
+    text-align: center;
+    margin-top: 100px;
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 16px;
+}body {
+    background-image: url("fondo.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+body {
+    background-image: url("Frutiger sky island.png");
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+}
