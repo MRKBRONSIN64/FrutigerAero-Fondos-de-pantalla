@@ -42,5 +42,16 @@ function saludar() {
   alert("Hola");
 }
 </script>
+<button onclick="mostrarTexto()">
+  Mostrar texto
+</button>
+
+<p id="mensaje"></p>
+
+<script>
+function mostrarTexto() {
+  document.getElementById("mensaje").innerText = "Hola";
+}
+</script>
 
 
